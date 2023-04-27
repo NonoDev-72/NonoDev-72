@@ -25,7 +25,8 @@ I am specialized in the development of mobile applications, specifically in andr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonozomber&layout=compact" />
 </p>
 
-[========]
+------------
+------------
 
 <p align="center">
 &copy; Nono
