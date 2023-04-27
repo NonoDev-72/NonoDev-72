@@ -21,9 +21,7 @@ I am specialized in the development of mobile applications, specifically in andr
 </p>
 
 ##### The programming languages I use the most
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nonozomber&layout=compact)
-</p>
 
 
 <p align="center">
