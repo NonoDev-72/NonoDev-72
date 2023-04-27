@@ -16,12 +16,10 @@ I am specialized in the development of mobile applications, specifically in andr
 
 
 ##### These are my profile stats:
-<p align="center">
-![](https://github-readme-stats.vercel.app/api?username=nonozomber&theme=vue-dark&show_icons=true)
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonozomber&theme=vue-dark&show_icons=true" />
 
 ##### The programming languages I use the most
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nonozomber&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonozomber&layout=compact" />
 
 
 <p align="center">
