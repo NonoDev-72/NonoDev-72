@@ -16,7 +16,7 @@ I am specialized in the development of mobile applications, specifically in andr
 
 
 ##### These are my profile stats:
-<p>
+<p  align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nonozomber&theme=vue-dark&show_icons=true" />
 </p>
 
