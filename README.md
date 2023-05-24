@@ -12,9 +12,8 @@
 
 ## Estadísticas de GitHub
 
-<p  align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nonozomber&theme=vue-dark&show_icons=true" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonozomber&theme=vue-dark&show_icons=true" />
+
 
 ## ¡Conéctate conmigo!
 
