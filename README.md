@@ -6,8 +6,8 @@
 
 - 🔭 Actualmente estoy estudiando desarrollo de aplicaciones multiplataforma
 - 🌱 Estoy interesado en el desarrollo de aplicaciones móviles
-- 🎓 Graduado en IES Oretania
-- 💻 Lenguajes de programación y tecnologías que domino: Kotin, Java, C, C++ y C#
+- 🎓 Estudiante en IES Oretania
+- 💻 Lenguajes de programación y tecnologías que domino: Kotin, Java, C, C++, C# y Python
 - 📫 Puedes contactarme a través de correo electrónico
 
 ## Estadísticas de GitHub
@@ -19,7 +19,9 @@
 
 Si deseas conocer más sobre mis proyectos, colaboraciones o simplemente charlar sobre tecnología, ¡no dudes en contactarme a través de mis redes sociales o correo electrónico!
 
-- [Correo electrónico] bedmar857@gmail.com
+- [Correo electrónico] jantonio.developer@gmail.com
+- [InfoJobs] <a src="https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=5301786674199348314&codigo="> Juan Antonio </a>
+- [Linkedin] <a src="https://www.linkedin.com/in/juan-antonio-bedmar-gonz%C3%A1lez-79202127b/"> Juan Antonio Bedmar González </a>
 
 ¡Espero que encuentres interesante mi trabajo! No dudes en explorar mis repositorios y dejar cualquier comentario o sugerencia. ¡Gracias por visitarme!
 
