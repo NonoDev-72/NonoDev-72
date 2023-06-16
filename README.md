@@ -20,7 +20,6 @@
 Si deseas conocer más sobre mis proyectos, colaboraciones o simplemente charlar sobre tecnología, ¡no dudes en contactarme a través de mis redes sociales o correo electrónico!
 
 - Correo electrónico: jantonio.developer@gmail.com
-- [InfoJobs](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=5301786674199348314&codigo=)
 - [Linkedin](https://www.linkedin.com/in/juan-antonio-bedmar-gonz%C3%A1lez-79202127b/)
 
 ¡Espero que encuentres interesante mi trabajo! No dudes en explorar mis repositorios y dejar cualquier comentario o sugerencia. ¡Gracias por visitarme!
