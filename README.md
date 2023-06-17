@@ -12,7 +12,7 @@
 
 ## Estadísticas de GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonozomber&theme=vue-dark&show_icons=true" />
+<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nonozomber?cardType=github&theme=vue&preferLogin=false&Background=FFFFFF" />
 
 
 ## ¡Conéctate conmigo!
