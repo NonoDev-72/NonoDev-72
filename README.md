@@ -10,9 +10,6 @@
 - 💻 Lenguajes de programación y tecnologías que domino: Kotin, Java, C, C++, C# y Python
 - 📫 Puedes contactarme a través de correo electrónico
 
-## Estadísticas de GitHub
-
-<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nonozomber?cardType=github&theme=vue&preferLogin=false&Background=FFFFFF" />
 
 ## Technologies
 
@@ -26,6 +23,11 @@ Si deseas conocer más sobre mis proyectos, colaboraciones o simplemente charlar
 - [Linkedin](https://www.linkedin.com/in/juan-antonio-bedmar-gonz%C3%A1lez-79202127b/)
 
 ¡Espero que encuentres interesante mi trabajo! No dudes en explorar mis repositorios y dejar cualquier comentario o sugerencia. ¡Gracias por visitarme!
+
+## Estadísticas de GitHub
+
+<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nonozomber?cardType=github&theme=vue&preferLogin=false&Background=FFFFFF" />
+
 
 <p align="center">
 &copy; Nono
