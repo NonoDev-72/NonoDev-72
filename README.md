@@ -4,7 +4,7 @@
 
 ## 😎 Acerca de mí
 
-- 🔭 Actualmente estoy estudiando desarrollo de aplicaciones multiplataforma
+- 🔭 Graduado en Desarrollo de Aplicaciones Multiplataforma
 - 🌱 Estoy interesado en el desarrollo de aplicaciones móviles
 - 🎓 Graduado en IES Oretania
 - 📫 Puedes contactarme a través de correo electrónico
