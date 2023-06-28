@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy estudiando desarrollo de aplicaciones multiplataforma
 - 🌱 Estoy interesado en el desarrollo de aplicaciones móviles
-- 🎓 Estudiante en IES Oretania
+- 🎓 Graduado en IES Oretania
 - 📫 Puedes contactarme a través de correo electrónico
 
 
