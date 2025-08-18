@@ -25,7 +25,7 @@ Si deseas conocer más sobre mis proyectos, colaboraciones o simplemente charlar
 
 ## Estadísticas de GitHub
 
-<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nonozomber?cardType=github&theme=vue&preferLogin=false&Background=FFFFFF" />
+<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/NonoDev-72?cardType=github&theme=dark&preferLogin=false&Background=FFFFFF" />
 
 
 <p align="center">
