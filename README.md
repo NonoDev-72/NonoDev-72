@@ -1,4 +1,4 @@
-<![Banner Presentation](resources/single-play.gif)>
+![Banner Presentation](resources/single-play.gif)
 
 # 👋 ¡Hola, soy Juan Antonio!
 
