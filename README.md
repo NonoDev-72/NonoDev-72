@@ -14,10 +14,9 @@ Soy desarrollador mobile especializado en la creación de aplicaciones nativas y
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/NonoDev-72?cardType=level&theme=dark" alt="Nivel en GitHub" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonoDev-72&layout=compact&theme=dark" alt="Lenguajes más usados" width="350"/>
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NonoDev-72?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonoDev-72&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
