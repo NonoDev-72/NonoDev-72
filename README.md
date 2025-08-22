@@ -1,41 +1,14 @@
-![Banner Presentation](resources/single-play.gif)
+![Banner Presentation](resources/banner-multiplatform-not-loop.gif)
 
-# 👋 ¡Hola, soy Juan Antonio!
+# 👋 - ¡Bienvenido!
 
-Bienvenido a mi espacio en GitHub. Soy un desarrollador Android con pasión por el diseño funcional y las soluciones móviles que marcan la diferencia. Aquí encontrarás mis proyectos más destacados, las tecnologías que manejo y la forma de conectar conmigo.
+Soy desarrollador mobile especializado en la creación de aplicaciones nativas y multiplataforma para Android e iOS. Mi enfoque combina diseño intuitivo, rendimiento optimizado y una experiencia de usuario fluida. A lo largo de mi trayectoria, he trabajado en proyectos que van desde startups hasta soluciones empresariales, siempre con el objetivo de transformar ideas en productos digitales funcionales y escalables.
 
 ---
 
 ## 🛠 Tecnologías y herramientas
 
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android.png" alt="Android" width="24"/> Android: desarrollo nativo con Kotlin y Java  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ios.png" alt="iOS" width="24"/> iOS: desarrollo nativo con Swift  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kotlin.png" alt="Kotlin" width="24"/> Kotlin: desarrollo Android nativo con corutinas y Jetpack  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/swift.png" alt="Swift" width="24"/> Swift: lenguaje para desarrollo iOS  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flutter.png" alt="Flutter" width="24"/> Flutter: framework UI multiplataforma  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/dart.png" alt="Dart" width="24"/> Dart: lenguaje para Flutter  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" alt="Java" width="24"/> Java: backend y aplicaciones robustas  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" alt="Firebase" width="24"/> Firebase: autenticación, base de datos y hosting  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="GCP" width="24"/> Google Cloud Platform: infraestructura escalable  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="24"/> Docker: contenedores y despliegue ágil  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" alt="Bash" width="24"/> Bash: automatización y administración  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" alt="C" width="24"/> C: programación de bajo nivel  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" alt="C++" width="24"/> C++: programación orientada a objetos y multiplataforma  
-
-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%23.png" alt="C#" width="24"/> C#: desarrollo en .NET y Unity  
-
+![Banner Presentation](resources/banner-tecnologies-not-loop.gif)
 
 ---
 
@@ -63,7 +36,7 @@ Bienvenido a mi espacio en GitHub. Soy un desarrollador Android con pasión por 
 
 - 🌐 Web: [jabedmar.com](https://jabedmar.com)  
 - 📧 Email: [jantonio.developer@gmail.com](mailto:jantonio.developer@gmail.com)  
-- 💼 LinkedIn: [juan-antonio-bedmar](https://www.linkedin.com/in/juan-antonio-bedmar-gonz%C3%A1lez-79202127b/)  
+- 💼 LinkedIn: [Juan Antonio Bedmar González](https://www.linkedin.com/in/juan-antonio-bedmar-gonz%C3%A1lez-79202127b/)  
 
 ---
 
