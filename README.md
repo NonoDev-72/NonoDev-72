@@ -1,3 +1,5 @@
+<![Banner Presentation](resources/single-play.gif)>
+
 # 👋 ¡Hola, soy Juan Antonio!
 
 Bienvenido a mi espacio en GitHub. Soy un desarrollador Android con pasión por el diseño funcional y las soluciones móviles que marcan la diferencia. Aquí encontrarás mis proyectos más destacados, las tecnologías que manejo y la forma de conectar conmigo.
