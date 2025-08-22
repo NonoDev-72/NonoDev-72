@@ -1,34 +1,70 @@
-# Bienvenido/a 👋
+# 👋 ¡Hola, soy Juan Antonio!
 
-¡Hola! Soy Juan Antonio, un desarrollador de aplicaciones Andorid apasionado por la tecnología y el desarrollo de software. En este repositorio encontrarás una muestra de mis proyectos y experiencias en el mundo de la programación.
+Bienvenido a mi espacio en GitHub. Soy un desarrollador Android con pasión por el diseño funcional y las soluciones móviles que marcan la diferencia. Aquí encontrarás mis proyectos más destacados, las tecnologías que manejo y la forma de conectar conmigo.
 
-## 😎 Acerca de mí
+---
 
-- 🔭 Graduado en Desarrollo de Aplicaciones Multiplataforma
-- 🌱 Estoy interesado en el desarrollo de aplicaciones móviles
-- 🎓 Graduado en IES Oretania
-- 📫 Puedes contactarme a través de correo electrónico
+## 🛠 Tecnologías y herramientas
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android.png" alt="Android" width="24"/> Android: desarrollo nativo con Kotlin y Java  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ios.png" alt="iOS" width="24"/> iOS: desarrollo nativo con Swift  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kotlin.png" alt="Kotlin" width="24"/> Kotlin: desarrollo Android nativo con corutinas y Jetpack  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/swift.png" alt="Swift" width="24"/> Swift: lenguaje para desarrollo iOS  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flutter.png" alt="Flutter" width="24"/> Flutter: framework UI multiplataforma  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/dart.png" alt="Dart" width="24"/> Dart: lenguaje para Flutter  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" alt="Java" width="24"/> Java: backend y aplicaciones robustas  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" alt="Firebase" width="24"/> Firebase: autenticación, base de datos y hosting  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="GCP" width="24"/> Google Cloud Platform: infraestructura escalable  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="24"/> Docker: contenedores y despliegue ágil  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" alt="Bash" width="24"/> Bash: automatización y administración  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" alt="C" width="24"/> C: programación de bajo nivel  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" alt="C++" width="24"/> C++: programación orientada a objetos y multiplataforma  
+
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%23.png" alt="C#" width="24"/> C#: desarrollo en .NET y Unity  
 
 
-## 💻 Tecnologías
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-## 📫 ¡Conéctate conmigo!
-
-Si deseas conocer más sobre mis proyectos, colaboraciones o simplemente charlar sobre tecnología, ¡no dudes en contactarme a través de mis redes sociales o correo electrónico!
-
-- Correo electrónico: jantonio.developer@gmail.com
-- [Linkedin](https://www.linkedin.com/in/juan-antonio-bedmar-gonz%C3%A1lez-79202127b/)
-
-¡Espero que encuentres interesante mi trabajo! No dudes en explorar mis repositorios y dejar cualquier comentario o sugerencia. ¡Gracias por visitarme!
-
-## Estadísticas de GitHub
-
-<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/NonoDev-72?cardType=level&theme=dark&preferLogin=false" />
-
+## 📈 Estadísticas de GitHub
 
 <p align="center">
-&copy; Nono
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/NonoDev-72?cardType=level&theme=dark" alt="Nivel en GitHub" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonoDev-72&layout=compact&theme=dark" alt="Lenguajes más usados" width="350"/>
 </p>
 
+---
+
+## 🧠 Sobre mí
+
+- 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma por el IES Oretania  
+- 📱 Especializado en Kotlin y Java para Android  
+- 🚀 Me encanta aprender nuevas tecnologías y superar retos técnicos  
+- 🤝 Abierto a colaboraciones, mentorías y proyectos creativos  
+
+---
+
+## 📬 Conectemos
+
+¿Tienes una idea, un reto o simplemente quieres charlar sobre tecnología? ¡Hablemos!
+
+- 🌐 Web: [jabedmar.com](https://jabedmar.com)  
+- 📧 Email: [jantonio.developer@gmail.com](mailto:jantonio.developer@gmail.com)  
+- 💼 LinkedIn: [juan-antonio-bedmar](https://www.linkedin.com/in/juan-antonio-bedmar-gonz%C3%A1lez-79202127b/)  
+
+---
+
+<p align="center">
+  Hecho con ❤️ por Juan Antonio  
+</p>
