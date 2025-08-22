@@ -8,7 +8,7 @@ Soy desarrollador mobile especializado en la creación de aplicaciones nativas y
 
 ## 🛠 Tecnologías y herramientas
 
-![Banner Presentation](resources/banner-tecnologies-not-loop.gif)
+![Banner Presentation](resources/banner-piston-tecnologies.gif)
 
 ---
 
